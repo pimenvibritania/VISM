@@ -79,6 +79,7 @@
             @endif
 
             <div class="content">
+                <img src="{{URL::asset('/img/wm.png')}}" alt="profile Pic" height="110" width="110"><br>               
                 <div class="title m-b-md">
                     VISM
                 </div>
@@ -88,10 +89,9 @@
                 <br>
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
+                    <a href="https://laracasts.com">Messenger</a>
                     <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/laravel/laravel">Forums</a>
                 </div>
             </div>
         </div>
